@@ -1,0 +1,25 @@
+{
+    "auth": {
+        "not_auth": "Autoriser l'application",
+        "button": "Autoriser",
+        "success": "Application installée avec succès."
+    },
+    "navbar": {
+        "home": "Accueil",
+        "first": "Premier"
+    },
+    "home": {
+        "welcome": "Bienvenue !",
+        "p1": "Premier paragraphe.",
+        "p2": "Second paragraphe.",
+        "p3": "Troisième paragraphe.",
+        "communaute": "Rejoignez la Communauté",
+        "commun_text": "Pour jouer et partager sur le JdR et Miro.",
+        "discord": "Serveur Discord : MIRROR",
+        "patreon": "Vous pouvez me soutenir via Patreon"
+    },
+    "first": {
+        "title": "Titre",
+        "subtitle": "Sous Titre"
+    }
+}

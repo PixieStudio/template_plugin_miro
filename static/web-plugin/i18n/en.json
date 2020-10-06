@@ -1,0 +1,25 @@
+{
+    "auth": {
+        "not_auth": "Authorize Application",
+        "button": "Authorize",
+        "success": "Successfully installed application."
+    },
+    "navbar": {
+        "home": "Home",
+        "first": "First"
+    },
+    "home": {
+        "welcome": "Welcome!",
+        "p1": "First paragraph.",
+        "p2": "Second paragraph.",
+        "p3": "Third paragraph.",
+        "communaute": "Join the Community",
+        "commun_text": "To play and share about RPG and Miro.",
+        "discord": "Discord Server: MIRROR",
+        "patreon": "You can support me through Patreon"
+    },
+    "first": {
+        "title": "Title",
+        "subtitle": "Subtitle"
+    }
+}
