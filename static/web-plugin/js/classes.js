@@ -43,6 +43,7 @@ class UI {
 
 // ==============================================
 //                   TRANSLATOR
+// https://github.com/andreasremdt/simple-translator
 // ==============================================
 class Translator {
     constructor(options = {}) {
