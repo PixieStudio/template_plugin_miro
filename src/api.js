@@ -1,6 +1,5 @@
 require('dotenv-safe').config()
 const rp = require('request-promise')
-const config = require('./config')
 
 const oAuth = {
 	getToken(code, clientId) {
