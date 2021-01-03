@@ -2,7 +2,7 @@
 //                       APP
 // ==============================================
 
-const APP_ID = 'APP ID'
+const APP_ID = 'APP_ID'
 const APP_URL = 'https://domain.com/static/web-plugin'
 const LIBRARY_PATH = 'web-plugin/library.html'
 

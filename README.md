@@ -6,13 +6,11 @@ Clone this repository to your local workspace.
 
 `git clone git@github.com:PixieStudio/template_plugin_miro.git`
 
-Install npm.
+Install packages.
 
 `npm i`
 
-Create `.env` file then populate it like `.env.template`.
-
-**Add `.env` to your `.gitignore`**
+Populate `src/.config.js`.
 
 You can rename `app.js` if using PM2.
 
